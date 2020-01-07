@@ -1,0 +1,31 @@
+lvl1,lvl2,count
+Coal,Fossil Fuels,15.33
+Natural Gas,Fossil Fuels,31.53
+Crude Oil,Fossil Fuels,22.83
+NGPL,Fossil Fuels,5.85
+Fossil Fuels,Domestic Production,75.54
+Nuclear Electric Power,Domestic Production,8.44
+Renewable Energy,Domestic Production,11.72
+Domestic Production,Supply,95.7
+Petroleum Imports,Imports,21.48
+Other Imports,Imports,3.36
+Stock Change,Supply,1.9
+Imports,Supply,24.84
+Supply,Exports,21.19
+Supply,Coal Supply,13.24
+Supply,Natural Gas Supply,30.98
+Supply,Petroleum Supply,36.95
+Supply,Nuclear Electric Power Supply,8.44
+Supply,Renewable Energy Supply,11.52
+Exports,Petroleum Exports,14.42
+Exports,Other Exports,6.77
+Coal Supply,Fossil Fuels Supply,13.24
+Natural Gas Supply,Fossil Fuels Supply,30.98
+Petroleum Supply,Fossil Fuels Supply,36.95
+Nuclear Electric Power Supply,Consumption,8.44
+Renewable Energy Supply,Consumption,11.52
+Fossil Fuels Supply,Consumption,81.14
+Consumption,Residential,21.64
+Consumption,Commercial,18.61
+Consumption,Industrial,32.61
+Consumption,Transportation,28.39

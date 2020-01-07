@@ -64,7 +64,8 @@ def genSankey(df,cat_cols=[],value_cols='',title='Sankey Diagram'):
         fig = dict(data=[data], layout=layout)
         return fig
     
-app = dash.Dash()
+app = dash.Dash(__name__)
+server = app.server
 app.layout = html.Div([
 
     html.Div([
@@ -108,5 +109,5 @@ app.layout = html.Div([
 ])
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
     

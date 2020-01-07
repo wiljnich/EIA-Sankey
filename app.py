@@ -66,6 +66,7 @@ def genSankey(df,cat_cols=[],value_cols='',title='Sankey Diagram'):
     
 app = dash.Dash(__name__)
 server = app.server
+app.title = 'US Energy Flows 2018'
 app.layout = html.Div([
 
     html.Div([
